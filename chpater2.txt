@@ -1,0 +1,1 @@
+To view hidden files, run the ls command with the -a flag which enables viewing of all files in a directory or -al flag for long listing.

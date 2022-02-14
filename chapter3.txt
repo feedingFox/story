@@ -1,0 +1,1 @@
+In order to add a little security to your hidden files, you can compress them with a password and then hide them from a GUI file manager as follows.
